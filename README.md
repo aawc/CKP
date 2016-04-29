@@ -26,3 +26,4 @@ Chrome extension for interacting with KeePass password file.
 ## Installing from Chrome WebStore
 
 1. [Original extension](https://chrome.google.com/webstore/detail/lnfepbjehgokldcaljagbmchhnaaogpc)
+2. [My extension](https://chrome.google.com/webstore/detail/ckp-keepass-integration-f/gieaejdljmciblomhfakdbjdjbacfecd) build from this repo.
