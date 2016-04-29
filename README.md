@@ -21,3 +21,8 @@ Chrome extension for interacting with KeePass password file.
 1. Open ```More Tools``` > ```Extensions```, check the ```Developer mode``` checkbox.
 2. Click ```Load unpacked extension``` and browse to the folder where you cloned the code.
 3. You may find the [Chrome Apps & Extensions Developer Tool](https://chrome.google.com/webstore/detail/chrome-apps-extensions-de/ohmmkhmmmpcnpikjeljgnaoabkaalbgc) to be helpful when debugging the background page.
+
+
+## Installing from Chrome WebStore
+
+1. [Original extension](https://chrome.google.com/webstore/detail/lnfepbjehgokldcaljagbmchhnaaogpc)
